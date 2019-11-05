@@ -17,3 +17,4 @@ Consumer-to-Shop Fashion Image Retrieval
 
 ### Articles
 - NaverLabs Europe blog [[site](https://europe.naverlabs.com/blog/cvpr-2018-part-3-image-retrieval/)]
+- Tutorial on Variational Graph Auto-Encoders [[site](https://towardsdatascience.com/tutorial-on-variational-graph-auto-encoders-da9333281129)]
